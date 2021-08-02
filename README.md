@@ -3,7 +3,6 @@
 
 <div align = "center">
 
-<br/>
 <!-- <strong>Joyful Joy 🥳</strong><br><br> -->
 Hello, I'm seungwan (Joy).<br>
 <!-- My goal is to give good influence to society.<br>
