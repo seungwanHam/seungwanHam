@@ -4,7 +4,7 @@
 <div align = "center">
 
 <!-- <strong>Joyful Joy 🥳</strong><br><br> -->
-Hello, I'm seungwan (Joy).<br>
+  <strong>SeungwanHam</strong>.<br>
 <!-- My goal is to give good influence to society.<br>
 Have a day full of JOY today. -->
 
