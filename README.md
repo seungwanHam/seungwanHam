@@ -2,8 +2,8 @@
 
 ### 👾 About me
 
-<a href="https://seungwanham.notion.site/seungwanham/SEUNGWAN-HAM-f4db000a6b744a8bb7bf43b68181cb48" target="_blank"><img src="https://img.shields.io/badge/resume-dd0b78?style=flat&logo=notion&logoColor=white"></a> 
-<a href="https://seungwanham.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/blog-20C997?style=flat&logo=tistory&logoColor=white"></a> 
+<!-- <a href="https://seungwanham.notion.site/seungwanham/SEUNGWAN-HAM-f4db000a6b744a8bb7bf43b68181cb48" target="_blank"><img src="https://img.shields.io/badge/resume-dd0b78?style=flat&logo=notion&logoColor=white"></a> -->
+<!-- <a href="https://seungwanham.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/blog-20C997?style=flat&logo=tistory&logoColor=white"></a>  -->
 <a href="https://www.linkedin.com/in/seungwanham" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white"></a>
 
 - 💼 FrontEnd Engineer at [vling](http://vling.net/)
